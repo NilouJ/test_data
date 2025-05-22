@@ -228,6 +228,9 @@
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-75" value="approver?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="246" y="453.8" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-77" value="INTENT - Entity&lt;br&gt;&lt;div&gt;(.json)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="452" y="399.72" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
