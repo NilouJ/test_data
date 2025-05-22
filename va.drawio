@@ -253,10 +253,13 @@
           <mxGeometry x="393.85" y="385" width="61" height="61" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-93" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/AI_Studio.svg;" vertex="1" parent="1">
-          <mxGeometry x="760" y="307" width="44" height="46.75" as="geometry" />
+          <mxGeometry x="707.85" y="307" width="44" height="46.75" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="360" width="189" height="100.1" as="geometry" />
+        </mxCell>
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-95" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="773.9300000000001" y="313" width="46.75" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
