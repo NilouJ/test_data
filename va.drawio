@@ -144,7 +144,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXQDbOCGWNrBb0H5gYf9-47" value="Natural Language Understanding (NLU)&lt;div&gt;INTENTS &amp;amp; KEY TAGS&lt;/div&gt;&lt;div&gt;1) AWS Lex&amp;nbsp;&lt;/div&gt;&lt;div&gt;2) RASA pipeline&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-47" value="Natural Language Understanding (NLU)&lt;div&gt;INTENTS &amp;amp; KEY TAGS&lt;/div&gt;&lt;div&gt;1) AWS Lex - retraining problems&lt;/div&gt;&lt;div&gt;2) RASA pipeline - retrainable&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="304.68" y="315" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-48" value="Match&amp;nbsp;&lt;div&gt;with the defined intents?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
