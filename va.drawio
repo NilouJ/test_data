@@ -240,8 +240,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXQDbOCGWNrBb0H5gYf9-86" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(236, 236, 236); text-decoration: none; float: none; display: inline !important;&quot;&gt;REST/GET&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="610" width="160" height="40" as="geometry" />
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-86" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(236, 236, 236); text-decoration: none; float: none; display: inline !important;&quot;&gt;REST/GET. Audio Response + hashed audio&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="610" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-87" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Speech_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="116" y="380.1" width="68" height="68" as="geometry" />
