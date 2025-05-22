@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15" version="27.0.6">
   <diagram name="Page-1" id="u5RsOQjyN-ek3awXOhG_">
-    <mxGraphModel dx="879" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WfHPWLbNMJrmekppZ4q--1" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="92.2" width="20" height="30" as="geometry" />
+          <mxGeometry x="40" y="83.86" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WfHPWLbNMJrmekppZ4q--4" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.vms_voice_messaging_service;" parent="1" vertex="1">
           <mxGeometry x="920" y="639.85" width="31.18" height="30" as="geometry" />
@@ -15,11 +15,11 @@
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=0;endArrow=none;" edge="1" parent="1" source="WfHPWLbNMJrmekppZ4q--5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="107" as="targetPoint" />
+            <mxPoint x="110" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WfHPWLbNMJrmekppZ4q--5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="144" y="42.35" width="726" height="129.7" as="geometry" />
+          <mxGeometry x="134" y="35.15" width="726" height="129.7" as="geometry" />
         </mxCell>
         <mxCell id="WfHPWLbNMJrmekppZ4q--6" value="1) DATA COLLECTION" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="880" y="85" width="150" height="30" as="geometry" />
@@ -40,7 +40,7 @@
           <mxGeometry x="970" y="639.85" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WfHPWLbNMJrmekppZ4q--12" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.vms_voice_messaging_service;" parent="1" vertex="1">
-          <mxGeometry x="70" y="92.2" width="30" height="28.86" as="geometry" />
+          <mxGeometry x="70" y="85" width="30" height="28.86" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="144" y="590" width="726" height="129.7" as="geometry" />
@@ -56,6 +56,27 @@
               <mxPoint x="880" y="656" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTUuOTU5MzgxMTAzNTE1NjIiIHZpZXdCb3g9IjAuMDIwMzE3MDc3NjM2NzE4NzUgMC4zOTIxMjAzNjEzMjgxMjUgMjU1Ljk1OTM4MTEwMzUxNTYyIDI0OC4yODY4OTU3NTE5NTMxMiIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiIGhlaWdodD0iMjQ4LjI4Njg5NTc1MTk1MzEyIj48cGF0aCB0cmFuc2Zvcm09Im1hdHJpeCgxIDAgMCAtMSAwIDM4Mi4xNzM2MzQpIiBmaWxsPSIjZjYwIiBkPSJtMTQyLjA3NjU3OCAxOTEuMDg2ODE3YzAtMzEuODA2MTYxLTI1Ljc4MTgxOS01Ny41OTIyMDItNTcuNTg3OTgxMS01Ny41OTIyMDItMzEuODEwMzgzMyAwLTU3LjU5MjIwMjkgMjUuNzg2MDQxLTU3LjU5MjIwMjkgNTcuNTkyMjAyIDAgMzEuODA2MTYyIDI1Ljc4MTgxOTYgNTcuNTkyMjAzIDU3LjU5MjIwMjkgNTcuNTkyMjAzIDMxLjgwNjE2MjEgMCA1Ny41ODc5ODExLTI1Ljc4NjA0MSA1Ny41ODc5ODExLTU3LjU5MjIwMyIvPjxwYXRoIHRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIC0xIDAgMjIwLjkxMjkzNCkiIGZpbGw9IiNmYzAiIGQ9Im0yNTUuOTc5NzAzIDExMC40NTQzNTZjMC0zMS44MDE5NC0yNS43ODE4MTktNTcuNTkyMjAzLTU3LjU4Nzk4MS01Ny41OTIyMDMtMzEuODEwMzgzIDAtNTcuNTkyMjAzIDI1Ljc5MDI2My01Ny41OTIyMDMgNTcuNTkyMjAzIDAgMzEuODA2MTYyIDI1Ljc4MTgyIDU3LjU5NjQyNSA1Ny41OTIyMDMgNTcuNTk2NDI1IDMxLjgwNjE2MiAwIDU3LjU4Nzk4MS0yNS43OTAyNjMgNTcuNTg3OTgxLTU3LjU5NjQyNSIvPjxwYXRoIHRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIC0xIDAgMjE4LjM1NzEyNikiIGZpbGw9IiMwMDg5Y2MiIGQ9Im0xMTUuMjAwNDk4IDEwOS4xNzY0NTJjMC0zMS44MDE5Mzk1LTI1Ljc4MTgxOTQtNTcuNTkyMjAyNS01Ny41OTIyMDI3LTU3LjU5MjIwMjUtMzEuODAxOTQgMC01Ny41ODc5ODEyNyAyNS43OTAyNjMtNTcuNTg3OTgxMjcgNTcuNTkyMjAyNSAwIDMxLjgwNjE2MiAyNS43ODYwNDEyNyA1Ny41OTY0MjUgNTcuNTg3OTgxMjcgNTcuNTk2NDI1IDMxLjgxMDM4MzMgMCA1Ny41OTIyMDI3LTI1Ljc5MDI2MyA1Ny41OTIyMDI3LTU3LjU5NjQyNSIvPjxwYXRoIHRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIC0xIDAgMzgyLjE3MzYzNCkiIGZpbGw9IiMwMDk5MzkiIGQ9Im0yMzAuMzg1NzQ5IDE5MS4wODY4MTdjMC0zMS44MDYxNjEtMjUuNzgxODItNTcuNTkyMjAyLTU3LjU5NjQyNS01Ny41OTIyMDItMzEuODAxOTQgMC01Ny41ODc5ODEgMjUuNzg2MDQxLTU3LjU4Nzk4MSA1Ny41OTIyMDIgMCAzMS44MDYxNjIgMjUuNzg2MDQxIDU3LjU5MjIwMyA1Ny41ODc5ODEgNTcuNTkyMjAzIDMxLjgxNDYwNSAwIDU3LjU5NjQyNS0yNS43ODYwNDEgNTcuNTk2NDI1LTU3LjU5MjIwMyIvPjxwYXRoIHRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIC0xIDAgMTE1Ljk2ODY0MikiIGZpbGw9IiNiZjAwMDAiIGQ9Im0xODUuNTkyMDAxIDU3Ljk4NDMyMTNjMC0zMS44MDYxNjE2LTI1Ljc4NjA0Mi01Ny41OTIyMDI5NS01Ny41OTIyMDMtNTcuNTkyMjAyOTUtMzEuODA2MTYyMSAwLTU3LjU5MjIwMzQgMjUuNzg2MDQxMzUtNTcuNTkyMjAzNCA1Ny41OTIyMDI5NSAwIDMxLjgwNjE2MTcgMjUuNzg2MDQxMyA1Ny41OTIyMDI3IDU3LjU5MjIwMzQgNTcuNTkyMjAyNyAzMS44MDYxNjEgMCA1Ny41OTIyMDMtMjUuNzg2MDQxIDU3LjU5MjIwMy01Ny41OTIyMDI3Ii8+PHBhdGggdHJhbnNmb3JtPSJtYXRyaXgoMSAwIDAgLTEgMCAxNjguNDM3NDEpIiBmaWxsPSIjZmMwMDA3IiBkPSJtMTQwLjc5ODY3NSA1Ny45Nzg4MzMxYzAtMS4yMTE2MjMxLjEwNTU0Mi0yLjM5NzkxNjEuMTgxNTMyLTMuNTkyNjUyNCAyNS41NDU0MDUgNS44OTM0Njk4IDQ0LjYxMDUyNyAyOC43MzI3NzYyIDQ0LjYxMDUyNyA1Ni4wNjgxNzUzIDAgMS4yMTE2MjMtLjEwNTU0MiAyLjQwMjEzOC0uMTgxNTMyIDMuNTk2ODc0LTI1LjU0NTQwNi01Ljg5NzY5MS00NC42MTA1MjctMjguNzM2OTk3OC00NC42MTA1MjctNTYuMDcyMzk2OSIvPjxwYXRoIHRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIC0xIDAgMzAxLjU0NjI0KSIgZmlsbD0iIzFjZDMwNiIgZD0ibTE0OC4zOTY4NiAxNjIuNTcwNjE0YzkuOTI1MTc4LTE3LjM1MTExOSAyOC41NzY1NzQtMjkuMDc0NzMzIDQ5Ljk5NzM5NS0yOS4wNzQ3MzMgOC43MzA0NDEgMCAxNi45NzUzODggMi4wMDEwNzggMjQuMzkyODg2IDUuNDc5NzQ1LTkuOTIwOTU2IDE3LjM1MTExOC0yOC41NzIzNTIgMjkuMDc0NzMyLTQ5Ljk5NzM5NSAyOS4wNzQ3MzItOC43MzA0NDEgMC0xNi45NzUzODgtMi4wMDEwNzctMjQuMzkyODg2LTUuNDc5NzQ0Ii8+PHBhdGggdHJhbnNmb3JtPSJtYXRyaXgoMSAwIDAgLTEgMCAzODIuMTczNjM0KSIgZmlsbD0iIzBmNzUwNCIgZD0ibTExNS4yMDA0OTggMTkxLjA4NjgxN2MwLTE0LjA3MDg3IDUuMDU3NTc3LTI2Ljk0NzAwNCAxMy40NDE4NC0zNi45NDgxNzEgOC4zNzU4MTkgMTAuMDAxMTY3IDEzLjQzMzM5NiAyMi44NzczMDEgMTMuNDMzMzk2IDM2Ljk0ODE3MSAwIDE0LjA3MDg3MS01LjA1NzU3NyAyNi45NDcwMDUtMTMuNDMzMzk2IDM2Ljk0ODE3Mi04LjM4NDI2My0xMC4wMDExNjctMTMuNDQxODQtMjIuODc3MzAxLTEzLjQ0MTg0LTM2Ljk0ODE3MiIvPjxwYXRoIHRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIC0xIDAgMzAwLjI2OTYwMikiIGZpbGw9IiMwYzVlODciIGQ9Im0zNC44MDY5ODQgMTM4LjIxMjc2OGM2Ljk5NTMyOTItMy4wMjI3MjUgMTQuNjk1Njc5NS00LjcxNTYyIDIyLjgwMTMxMTMtNC43MTU2MiAyMS4yMDk3MzY3IDAgMzkuNjg4MDQ0MyAxMS40OTU2NDMgNDkuNjg0OTkwNyAyOC41NjM5MDgtNi45OTUzMyAzLjAyMjcyNi0xNC42OTk5MDE2IDQuNzExMzk5LTIyLjgwMTMxMTcgNC43MTEzOTktMjEuMjA5NzM2NyAwLTM5LjY5MjI2Ni0xMS40OTU2NDQtNDkuNjg0OTkwMy0yOC41NTk2ODciLz48cGF0aCB0cmFuc2Zvcm09Im1hdHJpeCgxIDAgMCAtMSAwIDE2Ny4xNjE2MTgpIiBmaWxsPSIjNmIwMDAxIiBkPSJtNzAuNjU0NTYzMSAxMTQuMDM2MDMyYy0uMTM1MDkzOS0xLjYwNDI0LS4yNDkwNzkzLTMuMjE2OTIzLS4yNDkwNzkzLTQuODU5MTU3IDAtMjcuMzE0MjkxIDE5LjAzNTU2OTgtNTAuMTMyNDg5IDQ0LjU1MTQyMzItNTYuMDUxMjg4OS4xMzA4NzIgMS42MDQyMzk2LjI0NDg1OCAzLjIxNjkyMjYuMjQ0ODU4IDQuODU0OTM1NyAwIDI3LjMxNDI5MDctMTkuMDMxMzQ4MyA1MC4xNDA5MzIyLTQ0LjU0NzIwMTkgNTYuMDU1NTEwMiIvPjxwYXRoIHRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIC0xIDAgMjk1LjQ2NDQ4MikiIGZpbGw9IiNmZmYiIGQ9Im03Ni4wMzA0NTQ1IDExMS41MDM4NjZoLTkuMDA5MDcyYy03Ljk1MzY1MTMgMC0xNC40MjEyNyA2LjQ0NjUxMS0xNC40MjEyNyAxNC4zNzkwNTR2ODEuNTQ2MDMzYzAgNy45MzI1NDMgNi40Njc2MTg3IDE0LjM4MzI3NSAxNC40MjEyNyAxNC4zODMyNzVoMTEyLjk2ODAyMjVjNy45NTM2NTEgMCAxNC40MTcwNDgtNi40NTA3MzIgMTQuNDE3MDQ4LTE0LjM4MzI3NXYtODEuNTQ2MDMzYzAtNy45MzI1NDMtNi40NjMzOTctMTQuMzc5MDU0LTE0LjQxNzA0OC0xNC4zNzkwNTRoLTM4LjQ4NDg2NWwtNzcuMjE0NTg2Ni0zNy44NTE2MTE2eiIvPjwvc3ZnPg==;" vertex="1" parent="1">
+          <mxGeometry x="160" y="87.85" width="39.95" height="38.7" as="geometry" />
+        </mxCell>
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-11" value="WebRTC Endpoint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="36.99999999999999" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-12" value=".../getusermedia/record/" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="134" y="67" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.934;exitY=0.981;exitDx=0;exitDy=0;startArrow=classic;startFill=0;endArrow=none;exitPerimeter=0;" edge="1" parent="1" source="fXQDbOCGWNrBb0H5gYf9-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="209" y="107" as="targetPoint" />
+            <mxPoint x="243" y="107" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-17" value="Audio File" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="264" y="87.85" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-18" value="Input Stream" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="111" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
