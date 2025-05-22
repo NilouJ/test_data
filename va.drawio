@@ -222,6 +222,12 @@
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-73" value="retrain NLU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="453.8" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-74" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="453.8" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-75" value="approver?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="246" y="453.8" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
