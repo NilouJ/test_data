@@ -159,18 +159,18 @@
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-55" value="KB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="836.85" y="620" width="42.15" height="56.2" as="geometry" />
         </mxCell>
-        <mxCell id="fXQDbOCGWNrBb0H5gYf9-58" value="RAG prompt&lt;div&gt;Azure AI Search&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="673.93" y="345" width="110" height="60" as="geometry" />
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-58" value="RAG prompt&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695.93" y="403" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-59" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="758" y="420" as="sourcePoint" />
-            <mxPoint x="808" y="420" as="targetPoint" />
+            <mxPoint x="779" y="420" as="sourcePoint" />
+            <mxPoint x="829" y="420" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-60" value="LLM&lt;div&gt;Azure OpenAI&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="789" y="357" width="100" height="40" as="geometry" />
+          <mxGeometry x="807" y="357" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-62" value="INTENT dB" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389.35" y="490" width="70" height="30" as="geometry" />
@@ -182,9 +182,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXQDbOCGWNrBb0H5gYf9-71" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1.192;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-71" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="869.9891434865121" y="419.9922499999998" as="sourcePoint" />
+            <mxPoint x="890" y="420" as="sourcePoint" />
             <mxPoint x="240" y="650" as="targetPoint" />
             <Array as="points">
               <mxPoint x="920" y="420" />
@@ -247,59 +247,56 @@
           <mxGeometry x="902.1800000000001" y="194.9" width="189" height="100.1" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-95" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="815.6199999999999" y="399.72" width="46.75" height="33" as="geometry" />
+          <mxGeometry x="836.6199999999999" y="399.72" width="46.75" height="33" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-96" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_A.svg;" vertex="1" parent="1">
           <mxGeometry x="483.72" y="105.4" width="47.3" height="44.6" as="geometry" />
         </mxCell>
-        <mxCell id="fXQDbOCGWNrBb0H5gYf9-99" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/Search_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="705" y="402.75" width="47" height="33.95" as="geometry" />
-        </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-100" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="728" y="260" as="sourcePoint" />
-            <mxPoint x="727.91" y="346" as="targetPoint" />
+            <mxPoint x="740" y="280" as="sourcePoint" />
+            <mxPoint x="740.3399999999999" y="397" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-101" value="[Intent + Entities]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="265" y="229.95" width="110" height="30" as="geometry" />
+          <mxGeometry x="326" y="248" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-102" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="366.72" y="244.36" as="sourcePoint" />
-            <mxPoint x="396.72" y="244.36" as="targetPoint" />
+            <mxPoint x="427.72" y="262.41" as="sourcePoint" />
+            <mxPoint x="457.72" y="262.41" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-103" value="webSearch API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="389.35" y="228" width="110" height="30" as="geometry" />
+          <mxGeometry x="450.35" y="246.05" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-105" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="492" y="244.36" as="sourcePoint" />
-            <mxPoint x="522" y="244.36" as="targetPoint" />
+            <mxPoint x="553" y="262.41" as="sourcePoint" />
+            <mxPoint x="583" y="262.41" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-106" value="filtering 3 urls" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="454.85" y="199.95" width="90" height="30" as="geometry" />
+          <mxGeometry x="515.85" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-107" value="WebScraping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="228" width="100" height="30" as="geometry" />
+          <mxGeometry x="576" y="246.05" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-108" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="603" y="244.36" as="sourcePoint" />
-            <mxPoint x="633" y="244.36" as="targetPoint" />
+            <mxPoint x="664" y="262.41" as="sourcePoint" />
+            <mxPoint x="694" y="262.41" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-109" value="Embeddings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="228" width="90" height="30" as="geometry" />
+          <mxGeometry x="691" y="246.05" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-110" value="Chunk and clean txt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545" y="202" width="130" height="30" as="geometry" />
+          <mxGeometry x="606" y="220.05" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
