@@ -191,7 +191,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXQDbOCGWNrBb0H5gYf9-72" value="Self Learning (production)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-72" value="Self Learning (Production)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="478" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-73" value="retrain NLU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
