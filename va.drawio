@@ -66,7 +66,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXQDbOCGWNrBb0H5gYf9-23" value="choice 1) Traditional Signal Processing,&lt;div&gt;statistical classifier, webRTC VAD&lt;br&gt;&lt;div&gt;choice 2) DeepLearning,&amp;nbsp;&lt;/div&gt;&lt;div&gt;NVIDIA speech classifier model&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-23" value="Demo 1) Traditional Signal Processing,&lt;div&gt;statistical classifier, webRTC VAD&lt;br&gt;&lt;div&gt;Production 2) DeepLearning,&amp;nbsp;&lt;/div&gt;&lt;div&gt;NVIDIA speech classifier model&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="396.72" y="32.55" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-24" value="Voice Activity Detection&lt;div&gt;(VAD)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -79,14 +79,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXQDbOCGWNrBb0H5gYf9-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fXQDbOCGWNrBb0H5gYf9-26" target="fXQDbOCGWNrBb0H5gYf9-29">
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="fXQDbOCGWNrBb0H5gYf9-26" target="fXQDbOCGWNrBb0H5gYf9-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-26" value="Cleaned Audio File&lt;div&gt;(.wav)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="105.39999999999999" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fXQDbOCGWNrBb0H5gYf9-29" value="Hash &amp;amp; Cache" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="26.55" width="100" height="30" as="geometry" />
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-29" value="Hash &amp;amp; Cache&lt;div&gt;(production)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="21.55" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-31" value="&lt;div&gt;Azure AI Speech (STT)&lt;/div&gt;&lt;div&gt;AzureOpenAI Whisper model&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="74.95" y="337" width="180" height="40" as="geometry" />
@@ -120,8 +120,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXQDbOCGWNrBb0H5gYf9-47" value="Natural Language Understanding (NLU)&lt;div&gt;INTENTS &amp;amp; KEY TAGS&lt;/div&gt;&lt;div&gt;1) Azure Conversational Language Understanding&lt;/div&gt;&lt;div&gt;2) RASA pipeline - retrainable&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="279.68" y="315" width="290" height="70" as="geometry" />
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-47" value="Natural Language Understanding (NLU)&lt;div&gt;INTENTS &amp;amp; KEY TAGS&lt;/div&gt;&lt;div&gt;Demo 1) Azure Conversational Language Understanding&lt;/div&gt;&lt;div&gt;Production 2) RASA pipeline - retrainable&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="259.68" y="315" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-48" value="Match&amp;nbsp;&lt;div&gt;with the defined intents?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="370" width="100" height="100" as="geometry" />
@@ -153,8 +153,8 @@
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-53" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="655" y="388" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fXQDbOCGWNrBb0H5gYf9-54" value="ACTION,&amp;nbsp;&lt;div&gt;Business Logic&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="295" width="100" height="40" as="geometry" />
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-54" value="ACTION,&amp;nbsp;&lt;div&gt;Business Logic&lt;/div&gt;&lt;div&gt;Production&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="285" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-58" value="RAG prompt&lt;div&gt;construction&lt;/div&gt;&lt;div&gt;intent+entity+context&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="675.93" y="393" width="130" height="60" as="geometry" />
@@ -169,10 +169,10 @@
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-60" value="LLM&lt;div&gt;Azure OpenAI&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="807" y="357" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fXQDbOCGWNrBb0H5gYf9-62" value="INTENT dB" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-62" value="INTENT dB" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="389.35" y="490" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fXQDbOCGWNrBb0H5gYf9-63" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.424;entryY=0.944;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-63" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.424;entryY=0.944;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="424.35000000000014" y="490" as="sourcePoint" />
             <mxPoint x="424.01239999999984" y="450.0144" as="targetPoint" />
@@ -191,8 +191,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXQDbOCGWNrBb0H5gYf9-72" value="Self Learning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="615" y="478" width="90" height="30" as="geometry" />
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-72" value="Self Learning (production)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="478" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-73" value="retrain NLU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="453.8" width="80" height="30" as="geometry" />
@@ -206,7 +206,7 @@
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-77" value="INTENT - Entity&lt;br&gt;&lt;div&gt;(.json)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="452" y="399.72" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fXQDbOCGWNrBb0H5gYf9-80" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1">
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-80" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="830" y="446.4499999999998" as="sourcePoint" />
             <mxPoint x="460" y="500" as="targetPoint" />
@@ -231,8 +231,8 @@
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-87" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Speech_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="116" y="380.1" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="fXQDbOCGWNrBb0H5gYf9-89" value="Clustering??" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="617.85" y="498" width="90" height="30" as="geometry" />
+        <mxCell id="fXQDbOCGWNrBb0H5gYf9-89" value="Clustering" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="622.85" y="498" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fXQDbOCGWNrBb0H5gYf9-90" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Speech_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="239.95" y="630" width="68" height="68" as="geometry" />
