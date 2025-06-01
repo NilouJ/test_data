@@ -168,7 +168,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TFc7yE8lHGfBqS_jKeA_-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="214" y="120.5" width="580.67" height="420.5" as="geometry" />
+          <mxGeometry x="214" y="120.5" width="580.67" height="459.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TFc7yE8lHGfBqS_jKeA_-33" value="Azure BING agent&lt;div&gt;web scraping&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570.2" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TFc7yE8lHGfBqS_jKeA_-35" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="629.7" y="540" as="sourcePoint" />
+            <mxPoint x="629.7" y="510" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
