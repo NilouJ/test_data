@@ -138,6 +138,12 @@
         <mxCell id="i2Sw8suIwHdIi-IFqOg8-5" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.bing;fillColor=#008373;strokeColor=none" vertex="1" parent="1">
           <mxGeometry x="595" y="440" width="53" height="66.2" as="geometry" />
         </mxCell>
+        <mxCell id="i2Sw8suIwHdIi-IFqOg8-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="-202" y="291.09" width="202.12" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="i2Sw8suIwHdIi-IFqOg8-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="20" y="60" width="930" height="600" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
